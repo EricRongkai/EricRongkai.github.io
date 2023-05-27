@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rongkai’s Personal Page"
+title                    : "Rongkai"
 title_separator          : "-"
 name                     : &name "Rongkai Liu"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rongkai Liu (刘镕恺)"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Anhui Hefei"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=KVIud6QAAAAJ&hl=en"
+  email            : "rongkai@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
