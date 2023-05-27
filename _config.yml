@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Rongkai Liu (刘镕恺)"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "I am currently finishing my PhD in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China. My research interests are in human-robot interaction, shared control, assistive robotics, virtual reality, and the development of new technologies."
   location         : "Anhui Hefei"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KVIud6QAAAAJ&hl=en"
   email            : "rongkai@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/EricRongkai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8159-5816"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
