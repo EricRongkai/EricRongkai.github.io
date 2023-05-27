@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China. My research interests and the development of new technologies are in
--Human-Robot Interaction and Collaboration
--Rehabilitation Engineering
--Assistive Robotics
--Virtual Reality
+* Human-Robot Interaction and Collaboration
+* Rehabilitation Engineering
+* Assistive Robotics
+* Virtual Reality
 
 A data-driven personal website
 ======
