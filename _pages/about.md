@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China. I am also leading the development of several new assitive devices, including exoskeleton robots for gait symmetry rehabilitation of hemiplegic patients, soft human-computer interaction interfaces, and inertial motion capture systems, etc. 
+I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China under the supervision of Professor Quanjun Song. Additionally, I am leading the development of several new assistive devices at the Research Center for Intelligent Sensing Technology, which is part of the Hefei Institute of Intelligent Machinery (IIM) at the Hefei Institute of Physical Sciences, CAS. These devices include exoskeleton robots for gait symmetry rehabilitation of hemiplegic patients, non-invasive human-computer interaction interfaces, and inertial motion capture systems, among others. 
 
 My research interests are in
 
