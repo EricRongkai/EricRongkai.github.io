@@ -12,10 +12,10 @@ I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at
 
 **My research interests are in**
 
-- **Human-Robot Interaction and Collaboration**
-- **Robot Learning**
-- **Assistive Robotics and Rehabilitation Engineering**
-- **Virtual Reality**
+- Human-Robot Interaction and Collaboration
+- Robot Learning
+- Assistive Robotics and Rehabilitation Engineering
+- Virtual Reality
 
 On-going projects
 ======
