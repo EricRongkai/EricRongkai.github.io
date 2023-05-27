@@ -15,7 +15,7 @@ I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at
 * Assistive Robotics
 * Virtual Reality
 
-I am also leading the development of several new assitive devices, including exoskeleton robots for gait symmetry rehabilitation of hemiplegic patients, soft human-computer interaction interfaces, and inertial motion capture systems.
+I am also leading the development of several new assitive devices, including exoskeleton robots for gait symmetry rehabilitation of hemiplegic patients, soft human-computer interaction interfaces, and inertial motion capture systems, etc.
 
 A data-driven personal website
 ======
