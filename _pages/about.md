@@ -11,8 +11,8 @@ redirect_from:
 I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China. My research interests are in
 
 * Human-Robot Interaction and Collaboration
-* Rehabilitation Engineering
-* Assistive Robotics
+* Robot Learning
+* Assistive Robotics and Rehabilitation Engineering
 * Virtual Reality
 
 I am also leading the development of several new assitive devices, including exoskeleton robots for gait symmetry rehabilitation of hemiplegic patients, soft human-computer interaction interfaces, and inertial motion capture systems, etc.
