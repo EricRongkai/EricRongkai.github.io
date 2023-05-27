@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China. My research interests are in human-robot interaction, shared control, assistive robotics, virtual reality, and the development of new technologies.
+I am currently pursuing my PhD in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China. My research interests and the development of new technologies are in
+-Human-Robot Interaction and Collaboration
+-Rehabilitation Engineering
+-Assistive Robotics
+-Virtual Reality
 
 A data-driven personal website
 ======
