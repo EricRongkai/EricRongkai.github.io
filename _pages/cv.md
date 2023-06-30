@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Pattern Recognition and Intelligent Systems, University of Science and Technology of China (USTC), 2024 (expected)
+* M.S. in Control Theory and Control Engineering, China University of Mining and Technology - Beijing (CUMTB), 2020
+* B.S. in Electrical Engineering and Automation, China University of Mining and Technology - Beijing (CUMTB), 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2017.6-2020.6: Research Assistant
+  * State Key Laboratory of Complex Systems Management and Control, Institute of Automation, Chinese Academy of Sciences
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * State Key Laboratory of Complex Systems Management and Control, Institute of Automation, Chinese Academy of Sciences
+  * Duties included: Algorithm research of machine learning in the field of exercise and health, software and hardware development of rehabilitation robot system, prototype development of inertial motion capture system, virtual reality software design.
+  * Supervisor: Professor Lina Tong， Professor Liang Peng
   
 Skills
 ======
