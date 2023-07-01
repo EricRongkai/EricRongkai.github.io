@@ -18,7 +18,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "CV(中文)"
+  - title: "CV(CN)"
     url: /cv(cn)/
   #- title: "Guide"
   #  url: /markdown/
