@@ -41,12 +41,12 @@ author_profile: true
       <br>
       <img src="/images/EXO_1.jpg"
       alt="Failed load figure"
-      width="248"/>
+      width="238"/>
       <img src="/images/EXO_2.png"
       alt="Failed load figure"
-      width="248"/>
+      width="238"/>
       <img src="/images/EXO_3.png"
       alt="Failed load figure"
-      width="400"/>
+      width="420"/>
      </center>
 </div>
