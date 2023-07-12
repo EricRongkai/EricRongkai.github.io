@@ -42,10 +42,10 @@ author_profile: true
       <img src="/images/EXO_1.jpg"
       alt="Failed load figure"
       width="248"/>
-      <img src="/images/EXO_2.jpg"
+      <img src="/images/EXO_2.png"
       alt="Failed load figure"
       width="248"/>
-      <img src="/images/EXO_3.jpg"
+      <img src="/images/EXO_3.png"
       alt="Failed load figure"
       width="400"/>
      </center>
