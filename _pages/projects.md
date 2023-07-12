@@ -14,5 +14,9 @@ author_profile: true
      <img src="/images/TNSRE_2.jpg"
       alt="Failed load figure"
       width="595"/>
+      <br>
+      <img src="/images/TNSRE.gif"
+      alt="Failed load figure"
+      width="895"/>
      <center>
 </div>
