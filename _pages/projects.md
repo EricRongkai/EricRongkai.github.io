@@ -30,3 +30,20 @@ author_profile: true
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
 - ## Knee exoskeleton robot for gait symmetry rehabilitation
+<div>			 <!--块级封装-->
+     <center>
+     <img src="/images/RAL.jpg"
+          alt="Failed load figure"
+          width="300"/> 
+     <img src="/images/RAL.gif"
+      alt="Failed load figure"
+      width="595"/>
+<!--       <br>
+      <img src="/images/TNSRE.gif"
+      alt="Failed load figure"
+      width="447"/>
+      <img src="/images/TNSRE_2.gif"
+      alt="Failed load figure"
+      width="447"/> -->
+     </center>
+</div>
