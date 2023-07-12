@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects&Reseach"
+title: "Projects & Reseach"
 permalink: /projects/
 author_profile: true
 ---
