@@ -34,10 +34,10 @@ author_profile: true
      <center>
      <img src="/images/RAL.jpg"
           alt="Failed load figure"
-          width="370"/> 
+          width="375"/> 
      <img src="/images/RAL.gif"
       alt="Failed load figure"
-      width="535"/>
+      width="530"/>
 <!--       <br>
       <img src="/images/TNSRE.gif"
       alt="Failed load figure"
