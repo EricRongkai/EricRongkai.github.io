@@ -12,6 +12,6 @@ author_profile: true
          width="300"/> &nbsp
     <img src="/images/TNSRE_2.jpg"
      alt="Failed load figure"
-     width="590"/>
+     width="595"/>
     <br>		<!--换行-->  
 </div>
