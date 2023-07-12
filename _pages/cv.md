@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p>Download the PDF CV to view it: <a href="/files/resume.pdf">Download</a>.</p>
+
 Education
 ======
 * Ph.D in Pattern Recognition and Intelligent Systems, University of Science and Technology of China (USTC), 2024 (expected)
