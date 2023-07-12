@@ -38,12 +38,15 @@ author_profile: true
      <img src="/images/RAL.gif"
       alt="Failed load figure"
       width="530"/>
-<!--       <br>
-      <img src="/images/TNSRE.gif"
+      <br>
+      <img src="/images/EXO_1.jpg"
       alt="Failed load figure"
-      width="447"/>
-      <img src="/images/TNSRE_2.gif"
+      width="248"/>
+      <img src="/images/EXO_2.jpg"
       alt="Failed load figure"
-      width="447"/> -->
+      width="248"/>
+      <img src="/images/EXO_3.jpg"
+      alt="Failed load figure"
+      width="400"/>
      </center>
 </div>
