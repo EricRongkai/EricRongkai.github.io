@@ -4,7 +4,7 @@ title: "Projects&Reseach"
 permalink: /projects/
 author_profile: true
 ---
-## Non-invasive flexible body-machine interface
+- ## Non-invasive flexible body-machine interface
 <div>			<!--块级封装-->
     <br>		<!--换行-->  
     <img src="/images/TNSRE.jpg"
