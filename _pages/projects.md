@@ -18,6 +18,9 @@ author_profile: true
       <br>
       <img src="/images/TNSRE.gif"
       alt="Failed load figure"
-      width="900"/>
+      width="447"/>
+      <img src="/images/TNSRE_2.gif"
+      alt="Failed load figure"
+      width="447"/>
      <center>
 </div>
