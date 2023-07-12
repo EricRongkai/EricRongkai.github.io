@@ -50,3 +50,9 @@ author_profile: true
       width="420"/>
      </center>
 </div>
+
+### ***Background:***<br>
+  In the acute phase of stroke, nearly 70\% of patients have a walking impairment. Even with rehabilitation and spontaneous recovery, 50\% of hemiplegic patients cannot walk independently. The reduced walking ability increases patients' risk of secondary injury and seriously affects their quality of life. Gait symmetry recovery is a major rehabilitation objective of stroke patients.
+### ***Innovation:*** <br>
+  (1) In this project, we have developed a knee exoskeleton robotic system (Maxon EC90 Flat Motor, Harmonic 50:1 Reducer, Maxon Escon 50/5 Driver, Dual Encoder, Torque Sensor). <br>
+  (2) Based on the adaptive nonlinear frequency oscillators (ANFO) and movement primitive, we encode the knee joint trajectory of the unaffected side into a low-dimensional space according to the real-time gait phase.
