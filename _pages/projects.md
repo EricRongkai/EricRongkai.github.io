@@ -9,9 +9,9 @@ author_profile: true
     <br>		<!--换行-->  
     <img src="/images/TNSRE.jpg"
          alt="Failed load figure"
-         width="200"/>
-    <img src="/images/TNSRE.jpg"
+         width="300"/>
+    <img src="/images/TNSRE_2.jpg"
      alt="Failed load figure"
-     width="200"/>
+     width="300"/>
     <br>		<!--换行-->  
 </div>
