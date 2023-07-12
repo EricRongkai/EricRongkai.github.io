@@ -4,7 +4,7 @@ title: "Projects & Reseach"
 permalink: /projects/
 author_profile: true
 ---
-- # Non-invasive soft body-machine interface
+- ## Non-invasive soft body-machine interface
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/TNSRE.jpg"
@@ -28,3 +28,5 @@ author_profile: true
 ### ***Innovation:*** <br>
   (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
+
+- ## Knee exoskeleton robot for gait symmetry rehabilitation
