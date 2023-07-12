@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>Download the PDF CV to view it: <a href="/files/resume.pdf">Download</a>.</p>
+<p>Download the PDF CV to view it: <a href="/files/resume.pdf">Download(CN)</a>; <a href="/files/resume.pdf">Download(EN)</a>.</p>
 
 Education
 ======
