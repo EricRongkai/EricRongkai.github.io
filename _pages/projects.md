@@ -4,7 +4,7 @@ title: "Projects & Reseach"
 permalink: /projects/
 author_profile: true
 ---
-
+- ## Non-invasive soft body-machine interface
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/TNSRE.jpg"
@@ -22,8 +22,6 @@ author_profile: true
       width="447"/>
      <center>
 </div>
-       
-- ## Non-invasive soft body-machine interface
   ### ***Background:***<br>
   Spinal cord injury (SCI) occurring in the cervical region of the spine can result in tetraplegia, a condition where the patient suffers a significant decrease in functionality or complete loss of independent movement in both their arms and legs. Most of tetraplegics end up partially or completely dependent on their caregivers. Because of the weak hand grip, they cannot use joystick stably for a long time. Customized human-machine interfaces for controlling assistive devices are essential for improving patient self-help and reducing the burden of social care.
   ### ***Innovation:*** <br>
