@@ -10,6 +10,7 @@ author_profile: true
     <img src="/images/TNSRE.jpg"
          alt="Failed load figure"
          width="200"/>
-    <br>		<!--换行-->
-    <center><p> SoftBoMI</p></center> <!--标题-->
+    <br>		<!--换行-->  
+    SoftBoMI    <!--标题-->
+    </center> 
 </div>
