@@ -9,6 +9,6 @@ redirect_from:
 
 <object data="/files/resume.pdf" type="application/pdf"  >
     <embed src="/files/resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
