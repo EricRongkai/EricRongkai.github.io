@@ -4,5 +4,5 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## 非侵入式柔性体-机交互接口
-<img src='/images/TNSRE.jpg'>
+## Non-invasive flexible body-machine interface
+<img src='/images/TNSRE.jpg', width="100">
