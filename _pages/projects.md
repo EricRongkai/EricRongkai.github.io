@@ -83,7 +83,21 @@ author_profile: true
   (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
-
+- ## Inertial Human Motion Capture System
+    
+<div>			 <!--块级封装-->
+     <center>
+     <img src="/images/2DOFEXO.png"
+          alt="Failed load figure"
+          width="295"/> 
+     <img src="/images/5DOFEXO (2).png"
+      alt="Failed load figure"
+      width="295"/>
+     <img src="/images/5DOFEXO.png"
+          alt="Failed load figure"
+          width="295"/> 
+     </center>
+</div>
 
 
 
