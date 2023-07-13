@@ -89,7 +89,7 @@ author_profile: true
      <center>
      <img src="/images/2DOFEXO.png"
           alt="Failed load figure"
-          width="290"/> 
+          width="295"/> 
      <img src="/images/5DOFEXO (2).png"
           alt="Failed load figure"
           width="310"/>
