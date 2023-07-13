@@ -61,10 +61,10 @@ author_profile: true
     
 <div>			 <!--块级封装-->
      <center>
-     <img src="/images/RAL.jpg"
+     <img src="/images/MOCAP.gif"
           alt="Failed load figure"
           width="375"/> 
-     <img src="/images/RAL.gif"
+     <img src="/images/IEEE_Sensors_2_COMP.gif"
       alt="Failed load figure"
       width="530"/>
      </center>
