@@ -114,10 +114,10 @@ author_profile: true
           width="347"/> 
      <img src="/images/image050.png"
           alt="Failed load figure"
-          width="197"/> 
+          width="97"/> 
      <img src="/images/Wrist.gif"
           alt="Failed load figure"
-          width="347"/>
+          width="447"/>
      </center>
 </div>
 
