@@ -63,17 +63,17 @@ author_profile: true
      <center>
      <img src="/images/IEEE Sensors_3.png"
           alt="Failed load figure"
-          width="620"/> 
+          width="570"/> 
      <img src="/images/MOCAP_2.jpg"
       alt="Failed load figure"
-      width="375"/>
+      width="325"/>
      <br>
      <img src="/images/MOCAP.gif"
           alt="Failed load figure"
-          width="535"/> 
+          width="485"/> 
      <img src="/images/IEEE Sensors_2_COMP.gif"
       alt="Failed load figure"
-      width="458"/>
+      width="408"/>
      </center>
 </div>
 
