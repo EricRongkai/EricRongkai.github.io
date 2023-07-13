@@ -12,8 +12,7 @@ redirect_from:
 
 - I am also leading the development of several new assistive devices at the Research Center for Intelligent Sensing Technology, which is part of the Hefei Institute of Intelligent Machinery (IIM) at the Hefei Institute of Physical Sciences, CAS.
 
-**My research interests are in**
-
+# Research Interests
 - Human-Robot Interaction and Collaboration
 - Shared Autonomy
 - Robot Learning
