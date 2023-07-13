@@ -112,6 +112,9 @@ author_profile: true
      <img src="/images/image049.jpeg"
           alt="Failed load figure"
           width="297"/> 
+     <img src="/images/image050.png"
+          alt="Failed load figure"
+          width="297"/> 
      <img src="/images/Wrist.gif"
           alt="Failed load figure"
           width="297"/>
