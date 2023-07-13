@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Dr.Rongkai"
 title_separator          : "-"
 name                     : &name "Rongkai Liu"
-description              : &description "PhD \n University of Science and Technology of China (USTC)"
+description              : &description "PhD @ University of Science and Technology of China (USTC)"
 url                      : https://EricRongkai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EricRongkai/EricRongkai.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rongkai Liu (刘镕恺)"
   avatar           : "profile.jpg"
-  bio              : "PhD student at University of Science and Technology of China (USTC)"
+  bio              : "PhD \n University of Science and Technology of China (USTC)"
   location         : "Anhui Hefei, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
