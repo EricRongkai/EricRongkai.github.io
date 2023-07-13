@@ -111,13 +111,13 @@ author_profile: true
      <center>
      <img src="/images/image049.jpeg"
           alt="Failed load figure"
-          width="297"/> 
+          width="347"/> 
      <img src="/images/image050.png"
           alt="Failed load figure"
-          width="297"/> 
+          width="197"/> 
      <img src="/images/Wrist.gif"
           alt="Failed load figure"
-          width="297"/>
+          width="347"/>
      </center>
 </div>
 
