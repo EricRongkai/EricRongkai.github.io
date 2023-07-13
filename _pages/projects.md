@@ -61,12 +61,12 @@ author_profile: true
     
 <div>			 <!--块级封装-->
      <center>
-     <img src="/images/IEEE Sensors_1.png"
+     <img src="/images/IEEE Sensors_3.png"
           alt="Failed load figure"
-          width="635"/> 
+          width="630"/> 
      <img src="/images/MOCAP_2.jpg"
       alt="Failed load figure"
-      width="358"/>
+      width="360"/>
      <br>
      <img src="/images/MOCAP.gif"
           alt="Failed load figure"
