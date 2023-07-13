@@ -13,6 +13,7 @@ redirect_from:
 - I am also leading the development of several new assistive devices at the Research Center for Intelligent Sensing Technology, which is part of the Hefei Institute of Intelligent Machinery (IIM) at the Hefei Institute of Physical Sciences, CAS.
 
 # Research Interests
+*"Artificial intelligence and human intelligence should be complementary and coexist, rather than simply replacing humans with machine intelligence. "*
 - Human-Robot Interaction and Collaboration
 - Shared Autonomy
 - Robot Learning
