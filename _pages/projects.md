@@ -66,7 +66,7 @@ author_profile: true
           width="535"/> 
      <img src="/images/IEEE Sensors_2_COMP.gif"
       alt="Failed load figure"
-      width="460"/>
+      width="458"/>
      </center>
 </div>
 
