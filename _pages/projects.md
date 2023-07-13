@@ -114,7 +114,7 @@ author_profile: true
           width="300"/> 
      <img src="/images/image050.png"
           alt="Failed load figure"
-          width="120"/> 
+          width="110"/> 
      <img src="/images/Wrist.gif"
           alt="Failed load figure"
           width="480"/>
