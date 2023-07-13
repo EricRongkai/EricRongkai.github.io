@@ -15,6 +15,7 @@ I am leading the development of several new assistive devices at the Research Ce
 **My research interests are in**
 
 - Human-Robot Interaction and Collaboration
+- Shared Autonomy
 - Robot Learning
 - Assistive Robotics and Rehabilitation Engineering
 - Virtual Reality
