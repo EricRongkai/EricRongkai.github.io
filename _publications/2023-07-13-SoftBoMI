@@ -1,0 +1,18 @@
+---
+title: "Toward Remapping Residual Movement of Shoulder: A Soft Body-Machine Interface (Under Review)"
+collection: publications
+permalink: /publication/2023-07-13-SoftBoMI
+excerpt: 'Spinal cord injury-induced tetraplegia significantly impairs patients' ability to carry out daily activities. Customized human-machine interfaces for controlling assistive devices is vital in improving the patient's self-help ability and reducing the societal caregiving burden. In this study, we developed a body-machine interface that utilizes soft sensors and IMUs to remap residual shoulder movements of tetraplegics to a two-dimensional continuous command space. A rule-based and a user intent-inference-based data decoding method were designed by us, respectively, for mapping interface data to command spaces. By involving the prior knowledge of user's abilities into a shared autonomy framework, we have implemented a shared command mapping approach to enhance the efficiency of command generation. Finally, we validated the effectiveness of the proposed method through target reaching tasks and a virtual powered wheelchair driving task. Our proposed method has the potential to be integrated into clothing, enabling non-invasive interaction in daily life. Additionally, it can also serve as a complementary for completing intricate tasks through cooperation with brain-computer interface or joysticks. '
+date: 2023-06-26
+venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
+<! --  paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093012'
+citation: 'R. Liu et al., “Adaptive Symmetry Reference Trajectory Generation in Shared Autonomy for Active Knee Orthosis,” IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3118–3125, Jun. 2023, doi: 10.1109/LRA.2023.3264767.
+'-->
+
+---
+Spinal cord injury-induced tetraplegia significantly impairs patients' ability to carry out daily activities. Customized human-machine interfaces for controlling assistive devices is vital in improving the patient's self-help ability and reducing the societal caregiving burden. In this study, we developed a body-machine interface that utilizes soft sensors and IMUs to remap residual shoulder movements of tetraplegics to a two-dimensional continuous command space. A rule-based and a user intent-inference-based data decoding method were designed by us, respectively, for mapping interface data to command spaces. By involving the prior knowledge of user's abilities into a shared autonomy framework, we have implemented a shared command mapping approach to enhance the efficiency of command generation. Finally, we validated the effectiveness of the proposed method through target reaching tasks and a virtual powered wheelchair driving task. Our proposed method has the potential to be integrated into clothing, enabling non-invasive interaction in daily life. Additionally, it can also serve as a complementary for completing intricate tasks through cooperation with brain-computer interface or joysticks. 
+
+<! -- [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093012)
+
+Recommended citation: R. Liu et al., “Adaptive Symmetry Reference Trajectory Generation in Shared Autonomy for Active Knee Orthosis,” IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3118–3125, Jun. 2023, doi: 10.1109/LRA.2023.3264767.-->
+
