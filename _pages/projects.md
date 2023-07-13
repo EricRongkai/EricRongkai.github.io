@@ -56,3 +56,48 @@ author_profile: true
 ### ***Contribution:*** <br>
   (1) In this project, we have developed a knee exoskeleton robotic system (Maxon EC90 Flat Motor, Harmonic 50:1 Reducer, Maxon Escon 50/5 Driver, Dual Encoder, Torque Sensor). <br>
   (2) Based on the adaptive nonlinear frequency oscillators (ANFO) and movement primitive, we encode the knee joint trajectory of the unaffected side into a low-dimensional space according to the real-time gait phase.
+
+  - ## Inertial Human Motion Capture System
+    
+<div>			 <!--块级封装-->
+     <center>
+     <img src="/images/RAL.jpg"
+          alt="Failed load figure"
+          width="375"/> 
+     <img src="/images/RAL.gif"
+      alt="Failed load figure"
+      width="530"/>
+     </center>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
