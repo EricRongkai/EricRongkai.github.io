@@ -83,7 +83,7 @@ author_profile: true
   (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
-- ## Inertial Human Motion Capture System
+- ## Virtual reality rehabilitation training system
     
 <div>			 <!--块级封装-->
      <center>
@@ -105,7 +105,24 @@ author_profile: true
   (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
+- ## Rehabilitation robot control system
+    
+<div>			 <!--块级封装-->
+     <center>
+     <img src="/images/image049.jpeg"
+          alt="Failed load figure"
+          width="297"/> 
+     <img src="/images/Wrist.gif"
+          alt="Failed load figure"
+          width="297"/>
+     </center>
+</div>
 
+### ***Background:***<br>
+  Spinal cord injury (SCI) occurring in the cervical region of the spine can result in tetraplegia, a condition where the patient suffers a significant decrease in functionality or complete loss of independent movement in both their arms and legs. Most of tetraplegics end up partially or completely dependent on their caregivers. Because of the weak hand grip, they cannot use joystick stably for a long time. Customized human-machine interfaces for controlling assistive devices are essential for improving patient self-help and reducing the burden of social care.
+### ***Contribution:*** <br>
+  (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
+  (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
 
 
