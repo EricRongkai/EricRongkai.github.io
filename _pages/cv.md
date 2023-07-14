@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Download the PDF CV to view it: <a href="/files/resume.pdf">Download(CN)</a>;
+<p>Download the PDF CV to view it: [Download(CN)](/files/resume.pdf);
 
 Education
 ======
