@@ -9,34 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-<p>Download the PDF CV to view it: <a href="/files/resume.pdf">Download(CN)</a>; <a href="/files/resume.pdf">Download(EN)</a>.</p>
+<p>Download the PDF CV to view it: <a href="/files/resume.pdf">Download(CN)</a>;
 
 Education
 ======
 * Ph.D in Pattern Recognition and Intelligent Systems, University of Science and Technology of China (USTC), 2024 (expected)
 * M.S. in Control Theory and Control Engineering, China University of Mining and Technology - Beijing (CUMTB), 2020
-* B.S. in Electrical Engineering and Automation, China University of Mining and Technology - Beijing (CUMTB), 2012
+* B.S. in Electrical Engineering and Automation, China University of Mining and Technology - Beijing (CUMTB), 2017
 
 Work experience
 ======
-* 2017.6-2020.6: Research Assistant
-  * State Key Laboratory of Complex Systems Management and Control, Institute of Automation, Chinese Academy of Sciences
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.9-Now: Fulltime Ph.D
+  * Research Center of Intelligent Sensing Technology, Institute of Intelligent Intelligence, Hefei Institute of Physical Sciences, Chinese Academy of Sciences
+  * Duties included: Research on human-robot interaction.
 
-* Fall 2015: Research Assistant
+* 2017.6-2020.8: Research Assistant
   * State Key Laboratory of Complex Systems Management and Control, Institute of Automation, Chinese Academy of Sciences
-  * Duties included: Algorithm research of machine learning in the field of exercise and health, software and hardware development of rehabilitation robot system, prototype development of inertial motion capture system, virtual reality software design.
-  * Supervisor: Professor Lina Tong， Professor Liang Peng
+  * Duties included: Research on virtual reality and motion capture
+
+* 2019.5-2019.8: Internship
+  * Beijing Zhongke Hongtai Medical Robot Co., LTD
+  * Duties included: Embedded system development of rehabilitation robots
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: Python、C/C++、 C\#、Matlab、LaTex
+* Software development: QT、Unity3D、Pybind11、RabbitMQ、ROS、PyBullet、WinForm、Simulink
+* Data analysis and visualization: Proficient in using static and dynamic research drawing libraries such as matplotlib, seaborn and pyqtgraph
+* Algorithm research
+  * Machine learning algorithms and algorithm development frameworks such as SK-Learn, PyTorch, Tsfresh, etc.
+  * Bayesian theory of time series analysis and modeling of stochastic systems such as HMM, KF, EKF and MDP
+  * DMP, pDMP, GP, GMM, BC, nonlinear oscillator and other robot imitation learning algorithms;
+  * Familiar with LQR, MPC, reinforcement learning and other optimization control algorithm theory;
+  * Familiar with generative model theory such as AE, VAE, GAIL and GAN.
+* Hardware development
+  * Familiar with the overall architecture of robot system and the development of embedded system based on Linux and RTOS platform;
+  * Familiar with BLE, 2.4G and other common wireless communication software and hardware development;
+  * Master the design and debugging of robot electric drive system and the development of underlying software.
 
 Publications
 ======
@@ -44,18 +53,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
