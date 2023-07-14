@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Download the PDF CV to view it: <a href="/files/resume.pdf" title="Download">Download (CN)</a>
+Download the PDF CV to view it: <a href="/files/resume.pdf" title="Download">Download (Chinese)</a>
 
 Education
 ======
