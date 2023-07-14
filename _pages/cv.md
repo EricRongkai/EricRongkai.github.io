@@ -45,9 +45,3 @@ Skills
   * Familiar with BLE, 2.4G and other common wireless communication software and hardware development;
   * Master the PCB design and debugging of robot electric drive system.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
