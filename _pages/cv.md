@@ -45,7 +45,7 @@ Skills
 * Hardware development
   * Familiar with the overall architecture of robot system and the development of embedded system based on Linux and RTOS platform;
   * Familiar with BLE, 2.4G and other common wireless communication software and hardware development;
-  * Master the design and debugging of robot electric drive system and the development of underlying software.
+  * Master the PCB design and debugging of robot electric drive system.
 
 Publications
 ======
