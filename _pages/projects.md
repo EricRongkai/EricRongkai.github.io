@@ -24,9 +24,9 @@ author_profile: true
      </center>
 </div>
      
-### ***Background:***<br>
+### ***Background:***
   Spinal cord injury (SCI) occurring in the cervical region of the spine can result in tetraplegia, a condition where the patient suffers a significant decrease in functionality or complete loss of independent movement in both their arms and legs. Most of tetraplegics end up partially or completely dependent on their caregivers. Because of the weak hand grip, they cannot use joystick stably for a long time. Customized human-machine interfaces for controlling assistive devices are essential for improving patient self-help and reducing the burden of social care.
-### ***Contribution:*** <br>
+### ***Contribution:*** 
   (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
@@ -52,9 +52,9 @@ author_profile: true
      </center>
 </div>
 
-### ***Background:***<br>
+### ***Background:***
   In the acute phase of stroke, nearly 70% of patients have a walking impairment. Even with rehabilitation and spontaneous recovery, 50% of hemiplegic patients cannot walk independently. The reduced walking ability increases patients' risk of secondary injury and seriously affects their quality of life. Gait symmetry recovery is a major rehabilitation objective of stroke patients.
-### ***Contribution:*** <br>
+### ***Contribution:*** 
   (1) In this project, we have developed a knee exoskeleton robotic system (Maxon EC90 Flat Motor, Harmonic 50:1 Reducer, Maxon Escon 50/5 Driver, Dual Encoder, Torque Sensor). <br>
   (2) Based on the adaptive nonlinear frequency oscillators (ANFO) and movement primitive, we encode the knee joint trajectory of the unaffected side into a low-dimensional space according to the real-time gait phase.
 
@@ -78,10 +78,10 @@ author_profile: true
      </center>
 </div>
 
-### ***Background:***<br>
+### ***Background:***
   Human motion capture systems based on inertial sensors often require the placement of sensor nodes on each set of active limbs, which significantly increases the deployment cost of motion capture devices. In this study, we consider the motion of a multilink complex system such as the human body to be redundant. Therefore based on an inertial motion capture system developed in-house, we investigate the possibility of using sparse nodes for 3D motion reconstruction.
 
-### ***Contribution:*** <br>
+### ***Contribution:*** 
   (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
