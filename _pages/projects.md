@@ -106,7 +106,7 @@ author_profile: true
   (1) In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
   (2) By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
   
-- ## Virtual reality rehabilitation training system
+- ## Virtual reality training system and hardware design for uppper limb rehabilitation robots
     
 <div>			 <!--块级封装-->
      <center>
@@ -121,9 +121,6 @@ author_profile: true
           width="290"/> 
      </center>
 </div>
-
-- ## Rehabilitation robots hardware design
-    
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/image049.jpeg"
