@@ -79,7 +79,8 @@ author_profile: true
 </div>
 
 ### ***Background:***<br>
-  Spinal cord injury (SCI) occurring in the cervical region of the spine can result in tetraplegia, a condition where the patient suffers a significant decrease in functionality or complete loss of independent movement in both their arms and legs. Most of tetraplegics end up partially or completely dependent on their caregivers. Because of the weak hand grip, they cannot use joystick stably for a long time. Customized human-machine interfaces for controlling assistive devices are essential for improving patient self-help and reducing the burden of social care.
+  Human motion capture systems based on inertial sensors often require the placement of sensor nodes on each set of active limbs, which significantly increases the deployment cost of motion capture devices. In this study, we consider the motion of a multilink complex system such as the human body to be redundant. Therefore based on an inertial motion capture system developed in-house, we investigate the possibility of using sparse nodes for 3D motion reconstruction.
+
 ### ***Contribution:*** <br>
   (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
   (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
@@ -99,11 +100,11 @@ author_profile: true
      </center>
 </div>
 
-### ***Background:***<br>
+### ***Background:***
   Spinal cord injury (SCI) occurring in the cervical region of the spine can result in tetraplegia, a condition where the patient suffers a significant decrease in functionality or complete loss of independent movement in both their arms and legs. Most of tetraplegics end up partially or completely dependent on their caregivers. Because of the weak hand grip, they cannot use joystick stably for a long time. Customized human-machine interfaces for controlling assistive devices are essential for improving patient self-help and reducing the burden of social care.
-### ***Contribution:*** <br>
-  (1) In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
-  (2) To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
+### ***Contribution:*** 
+  (1) In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
+  (2) By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
   
 - ## Virtual reality rehabilitation training system
     
