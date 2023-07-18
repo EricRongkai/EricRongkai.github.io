@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-- ## Non-invasive soft body-machine interface
+## Non-invasive soft body-machine interface
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/TNSRE.jpg"
@@ -30,7 +30,7 @@ author_profile: true
    - In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
    - To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
 
-- ## Knee exoskeleton robot for gait symmetry rehabilitation
+## Knee exoskeleton robot for gait symmetry rehabilitation
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/RAL.jpg"
@@ -58,7 +58,7 @@ author_profile: true
   (1) In this project, we have developed a knee exoskeleton robotic system (Maxon EC90 Flat Motor, Harmonic 50:1 Reducer, Maxon Escon 50/5 Driver, Dual Encoder, Torque Sensor). <br>
   (2) Based on the adaptive nonlinear frequency oscillators (ANFO) and movement primitive, we encode the knee joint trajectory of the unaffected side into a low-dimensional space according to the real-time gait phase.
 
-  - ## Inertial Human Motion Capture System
+## Inertial Human Motion Capture System
     
 <div>			 <!--块级封装-->
      <center>
@@ -87,7 +87,7 @@ author_profile: true
   (2) In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
   (3) By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
 
-- ## Quantitative evaluation of movement disorders in Parkinson's disease
+## Quantitative evaluation of movement disorders in Parkinson's disease
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/Parkinson.gif"
@@ -108,7 +108,7 @@ author_profile: true
   (1) In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
   (2) By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
   
-- ## Virtual reality training system and hardware design for uppper limb rehabilitation robots
+## Virtual reality training system and hardware design for uppper limb rehabilitation robots
     
 <div>			 <!--块级封装-->
      <center>
