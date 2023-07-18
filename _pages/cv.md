@@ -11,7 +11,7 @@ Download the PDF CV to view it: <a href="/files/resume.pdf" title="Download">Dow
 
 Education
 ======
-* Ph.D in Pattern Recognition and Intelligent Systems, University of Science and Technology of China (USTC), 2024 (expected)
+* Ph.D. in Pattern Recognition and Intelligent Systems, University of Science and Technology of China (USTC), 2024 (expected)
 * M.S. in Control Theory and Control Engineering, China University of Mining and Technology - Beijing (CUMTB), 2020
 * B.S. in Electrical Engineering and Automation, China University of Mining and Technology - Beijing (CUMTB), 2017
 
