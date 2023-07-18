@@ -31,6 +31,12 @@ author_profile: true
 </div>
      
 ## Knee exoskeleton robot for gait symmetry rehabilitation
+
+### ***Background:***
+  In the acute phase of stroke, nearly 70% of patients have a walking impairment. Even with rehabilitation and spontaneous recovery, 50% of hemiplegic patients cannot walk independently. The reduced walking ability increases patients' risk of secondary injury and seriously affects their quality of life. Gait symmetry recovery is a major rehabilitation objective of stroke patients.
+### ***Contribution:*** 
+  - In this project, we have developed a knee exoskeleton robotic system (Maxon EC90 Flat Motor, Harmonic 50:1 Reducer, Maxon Escon 50/5 Driver, Dual Encoder, Torque Sensor). <br>
+  - Based on the adaptive nonlinear frequency oscillators (ANFO) and movement primitive, we encode the knee joint trajectory of the unaffected side into a low-dimensional space according to the real-time gait phase.
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/RAL.jpg"
@@ -52,13 +58,16 @@ author_profile: true
      </center>
 </div>
 
-### ***Background:***
-  In the acute phase of stroke, nearly 70% of patients have a walking impairment. Even with rehabilitation and spontaneous recovery, 50% of hemiplegic patients cannot walk independently. The reduced walking ability increases patients' risk of secondary injury and seriously affects their quality of life. Gait symmetry recovery is a major rehabilitation objective of stroke patients.
-### ***Contribution:*** 
-  - In this project, we have developed a knee exoskeleton robotic system (Maxon EC90 Flat Motor, Harmonic 50:1 Reducer, Maxon Escon 50/5 Driver, Dual Encoder, Torque Sensor). <br>
-  - Based on the adaptive nonlinear frequency oscillators (ANFO) and movement primitive, we encode the knee joint trajectory of the unaffected side into a low-dimensional space according to the real-time gait phase.
-
 ## Inertial Human Motion Capture System
+
+### ***Background:***
+  Human motion capture systems based on inertial sensors often require the placement of sensor nodes on each set of active limbs, which significantly increases the deployment cost of motion capture devices. In this study, we consider the motion of a multilink complex system such as the human body to be redundant. Therefore based on an inertial motion capture system developed in-house, we investigate the possibility of using sparse nodes for 3D motion reconstruction.
+
+### ***Contribution:*** 
+  - Hardware and software development of inertial motion capture devices <br>
+  - Developed algorithms for avatar pose solving. <br>
+  - In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
+  - By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
     
 <div>			 <!--块级封装-->
      <center>
@@ -78,16 +87,14 @@ author_profile: true
      </center>
 </div>
 
-### ***Background:***
-  Human motion capture systems based on inertial sensors often require the placement of sensor nodes on each set of active limbs, which significantly increases the deployment cost of motion capture devices. In this study, we consider the motion of a multilink complex system such as the human body to be redundant. Therefore based on an inertial motion capture system developed in-house, we investigate the possibility of using sparse nodes for 3D motion reconstruction.
+## Quantitative evaluation of movement disorders in Parkinson's disease
 
+### ***Background:***
+ Parkinson's disease is a degenerative neurological disorder that impacts motor abilities. Individuals with this condition frequently experience symptoms such as resting tremor, bradykinesia, rigidity, postural instability, and abnormal posture and gait.
 ### ***Contribution:*** 
-  - Hardware and software development of inertial motion capture devices <br>
-  - Developed algorithms for avatar pose solving. <br>
   - In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
   - By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
 
-## Quantitative evaluation of movement disorders in Parkinson's disease
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/Parkinson.gif"
@@ -102,12 +109,6 @@ author_profile: true
      </center>
 </div>
 
-### ***Background:***
- Parkinson's disease is a degenerative neurological disorder that impacts motor abilities. Individuals with this condition frequently experience symptoms such as resting tremor, bradykinesia, rigidity, postural instability, and abnormal posture and gait.
-### ***Contribution:*** 
-  - In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
-  - By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
-  
 ## Virtual reality training system and hardware design for uppper limb rehabilitation robots
     
 <div>			 <!--块级封装-->
