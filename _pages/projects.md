@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Non-invasive soft body-machine interface
+## Non-invasive soft body-machine interface
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/TNSRE.jpg"
