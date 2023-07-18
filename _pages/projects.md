@@ -103,7 +103,7 @@ author_profile: true
 </div>
 
 ### ***Background:***
-  Spinal cord injury (SCI) occurring in the cervical region of the spine can result in tetraplegia, a condition where the patient suffers a significant decrease in functionality or complete loss of independent movement in both their arms and legs. Most of tetraplegics end up partially or completely dependent on their caregivers. Because of the weak hand grip, they cannot use joystick stably for a long time. Customized human-machine interfaces for controlling assistive devices are essential for improving patient self-help and reducing the burden of social care.
+ Parkinson's disease is a degenerative neurological disorder that impacts motor abilities. Individuals with this condition frequently experience symptoms such as resting tremor, bradykinesia, rigidity, postural instability, and abnormal posture and gait.
 ### ***Contribution:*** 
   (1) In this study we deploy a standard inertial sensor-based node to collect a large amount of human lower limb motion data to construct a gait motion database. <br>
   (2) By training an LSTM network model with sparse sensor inputs to dense sensor inputs, we achieved full lower limb joint pose reconstruction using only three sensor nodes.
