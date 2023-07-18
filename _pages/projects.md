@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<font color="#FF0000"> ## Non-invasive soft body-machine interface </font> 
+## <font color="#FF0000"> Non-invasive soft body-machine interface </font> 
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/TNSRE.jpg"
