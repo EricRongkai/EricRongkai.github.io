@@ -12,6 +12,7 @@ author_profile: true
 ### ***Contribution:*** 
    - In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
    - To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
+
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/TNSRE.jpg"
