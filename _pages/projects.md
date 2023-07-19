@@ -10,6 +10,10 @@ author_profile: true
 ### ***Background:***
   Spinal cord injury (SCI) occurring in the cervical region of the spine can result in tetraplegia, a condition where the patient suffers a significant decrease in functionality or complete loss of independent movement in both their arms and legs. Most of tetraplegics end up partially or completely dependent on their caregivers. Because of the weak hand grip, they cannot use joystick stably for a long time. Customized human-machine interfaces for controlling assistive devices are essential for improving patient self-help and reducing the burden of social care.
 
+### ***Contribution:*** 
+   - In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
+   - To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
+
 <div>			 <!--块级封装-->
      <center>
      <img src="/images/TNSRE.jpg"
@@ -27,14 +31,9 @@ author_profile: true
       width="447"/>
      </center>
 </div>
-
-### ***Contribution:*** 
-   - In this project, we have developed a body-machine interface that utilizes capacitive flexible strain sensor arrays and IMUs to capture residual shoulder motion in patients. <br>
-   - To address the uncertainty in the user's shoulder movement, we have introduced a shared control-based data decoding method that allows for online intervention of the user's intention inference.
-
 <br>
 
-## Knee exoskeleton robot for gait symmetry rehabilitation
+## 2. Knee exoskeleton robot for gait symmetry rehabilitation
 
 ### ***Background:***
   In the acute phase of stroke, nearly 70% of patients have a walking impairment. Even with rehabilitation and spontaneous recovery, 50% of hemiplegic patients cannot walk independently. The reduced walking ability increases patients' risk of secondary injury and seriously affects their quality of life. Gait symmetry recovery is a major rehabilitation objective of stroke patients.
@@ -61,8 +60,9 @@ author_profile: true
       width="420"/>
      </center>
 </div>
+<br>
 
-## Inertial Human Motion Capture System
+## 3. Inertial Human Motion Capture System
 
 ### ***Background:***
   Human motion capture systems based on inertial sensors often require the placement of sensor nodes on each set of active limbs, which significantly increases the deployment cost of motion capture devices. In this study, we consider the motion of a multilink complex system such as the human body to be redundant. Therefore based on an inertial motion capture system developed in-house, we investigate the possibility of using sparse nodes for 3D motion reconstruction.
@@ -90,8 +90,9 @@ author_profile: true
       width="408"/>
      </center>
 </div>
+<br>
 
-## Quantitative evaluation of movement disorders in Parkinson's disease
+## 4. Quantitative evaluation of movement disorders in Parkinson's disease
 
 ### ***Background:***
  Parkinson's disease is a degenerative neurological disorder that impacts motor abilities. Individuals with this condition frequently experience symptoms such as resting tremor, bradykinesia, rigidity, postural instability, and abnormal posture and gait.
@@ -112,8 +113,9 @@ author_profile: true
           width="297"/> 
      </center>
 </div>
+<br>
 
-## Virtual reality training system and hardware design for uppper limb rehabilitation robots
+## 5. Virtual reality training system and hardware design for uppper limb rehabilitation robots
     
 <div>			 <!--块级封装-->
      <center>
