@@ -30,7 +30,7 @@ author_profile: true
       width="447"/>
      </center>
 </div>
----
+***
 
 ## Knee exoskeleton robot for gait symmetry rehabilitation
 
