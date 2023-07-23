@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Download the PDF CV to view it: <a href="/files/resume.pdf" title="Download">Download (Chinese)</a>
+Download the PDF CV to view it: <a href="/files/resume_cn.pdf" title="Download">Download (Chinese)</a>,  <a href="/files/resume_en.pdf" title="Download">Download (English)</a>
 
 Education
 ======
