@@ -1,5 +1,5 @@
 ---
-title: "Group photo of Intelligent Sensing Technology Research Center"
+title: "I'm attending IROS 2023"
 excerpt: "Detroit, MI, USA, 2023.10.01-05<br/><img src='/images/IROS-2.jpg'>"
 collection: portfolio
 ---
