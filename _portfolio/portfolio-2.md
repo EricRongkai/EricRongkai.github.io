@@ -1,6 +1,6 @@
 ---
 title: "Group photo of Intelligent Sensing Technology Research Center"
-excerpt: "Detroit, MI, USA, 2023.10.01-05<br/><img src='/images/IROS-1.jpg'><img src='/images/IROS-2.jpg'>"
+excerpt: "Detroit, MI, USA, 2023.10.01-05<br/><img src='/images/IROS-2.jpg'>"
 collection: portfolio
 ---
 
