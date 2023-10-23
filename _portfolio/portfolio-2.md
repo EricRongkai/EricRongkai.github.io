@@ -1,6 +1,6 @@
 ---
 title: "Group photo of Intelligent Sensing Technology Research Center"
-excerpt: "Anhui, Hefei, 2023.06.16<br/><img src='/images/实验室合影.jpg'>"
+excerpt: "Detroit, MI, USA, 2023.10.01-05<br/><img src='/images/IROS-1.jpg'><img src='/images/IROS-2.jpg'>"
 collection: portfolio
 ---
 
